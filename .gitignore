@@ -1,0 +1,10 @@
+# Folders
+.idea/
+.settings/
+bin/
+target/
+
+# Files
+*.classpath
+*.project
+maven.java.iml
